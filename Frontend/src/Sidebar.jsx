@@ -107,7 +107,7 @@ function Sidebar() {
             </ul>
 
             <div className="sign">
-                <p>By *Urmi* &hearts;</p>
+                <p>By Urmi Shah &hearts;</p>
             </div>
         </section>
     );
