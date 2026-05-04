@@ -1,4 +1,7 @@
 ## **GabGPT**
+### A full-stack ChatGPT-style web app where users can create, revisit, and delete conversations with an AI, with a secure login system and and a clean UI.
+
+<hr style="border: 1px solid white;">
 
 ⚙️ Built with:
 
@@ -11,3 +14,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+<hr style="border: 1px solid white;">
