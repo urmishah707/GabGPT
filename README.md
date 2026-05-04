@@ -1,5 +1,5 @@
 ## **GabGPT**
-### A full-stack ChatGPT-style web app where users can create, revisit, and delete conversations with an AI, with a secure login system and and a clean UI.
+### A full-stack AI-powered chat app where users can create, revisit, and delete conversations with an AI, with a secure login system and and a clean UI.
 
 <hr style="border: 1px solid white;">
 
